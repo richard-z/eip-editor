@@ -10,5 +10,7 @@ Quellen
 -------
 
 [1] Gregor Hohpe and Bobby Woolf. Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2003.
+
 [2] Dirk Fahland and Christian Gierds. Using Petri nets for modeling Enterprise Integration Patterns. Technical report, bpmcenter.org, 2012.
+
 [3] https://www2.informatik.hu-berlin.de/top/www/lehre/1314-ws/entwurf_eines_graphischen_editors_zum_patternbasierten_modellieren
