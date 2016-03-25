@@ -2,7 +2,7 @@
 
 Diese Software ist im Rahmen meiner Bachelorarbeit entstanden und ermöglicht den Entwurf und die Simulation von Middleware. Ein Entwurf wird mithilfe der Enterprise Integration Patterns von Hohpe und Woolf [1] erstellt. 
 
-Die Konzeptuelle Grundlage für die Simulation ist die formale Semantik der EIP [2] von Dirk Fahland und Christian Gierds.
+Die Konzeptuelle Grundlage für die Simulation ist die formale Semantik der Enterprise Integration Patterns [2] von Dirk Fahland und Christian Gierds.
 
 Die Basis für diese Software entsteht im Semesterprojekt [1] „Entwurf eines graphischen Editors zum patternbasierten Modellieren“ an der Humboldt-Universität zu Berlin im Wintersemester 2013/14 unter der Leitung von Herrn Gierds.
 
